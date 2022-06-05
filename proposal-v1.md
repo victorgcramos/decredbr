@@ -172,7 +172,7 @@ other contributors on content creation and other roles described above.
 
 A rate of **$17/hr** will be used as an average for this budget estimate, with
 an estimated workload of **15h/week** for each contributor, which results in a
-rounded amount of **$18,500.00** budget for labor.
+rounded amount of **$18,900.00** budget for labor.
 
 We are also adding a monthly amount of $200 for marketing campaigns and ad boosts.
 
