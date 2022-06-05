@@ -25,42 +25,32 @@ Here are some links for our social media accounts:
 
 ## Why
 
-Brazil has a very active, engaged and growing Crypto community, we want to
+Brazil has a very active, engaged and growing Crypto community. We want to
 continue and improve the production of marketing content for the Brazilian
 audience. In that way we can engage the community and spread our word to
-possible new investors and contributors.
-
-Brazilians are very addicted to the internet and social media. They spend an
-average of 3 hours and 42 minutes per day on Social Media, according to Sortlist
-(marketing enterprise), but it's also common for them to link the crypto market
-to scams and gamble. In that way we can understand that actions in this segment
-represent an opportunity to spread Decred awareness as a trustworthy and serious
-project.
+possible new contributors.
 
 Cryptocurrencies are getting noticed by our local politics too. In the last São
 Paulo 2020 Mayor elections, both main candidates Bruno Covas and Guilherme
 Boulos used “votolegal”: a platform for transparency in election donations which
-runs in Decred Blockchain.
+runs on [Decred Blockchain](https://blockchain.votolegal.com.br/).
 
-Also on March, 30, Eduardo Paes, Mayor of Rio de Janeiro, confirmed that Bitcoin
-will be incorporated into the city’s treasury. This shows how crypto and
-blockchain are aimed to be part of the future in Brazil.
+Also on March, 30, Eduardo Paes, Mayor of Rio de Janeiro, [confirmed that Bitcoin
+will be incorporated into the city’s treasury](https://exame.com/future-of-money/rio-de-janeiro-confirma-que-vai-incorporar-bitcoin-ao-tesouro-da-cidade/).
+This shows how crypto and blockchain are aimed to be part of the future in Brazil.
 
 ### Disclaimer
 
-The previous BR marketing proposal hasn't delivered what the stakeholders were
-expecting, and we all know Decred community members are really expecting
+The previous BR marketing proposal hasn't delivered what the stakeholders expected, and we all know Decred community members are really expecting
 results, and this is why I am putting myself as a supervisor for this proposal.
-I don't have a clear idea about what caused the previous proposal to fail. In
-fact, noticing a lack of community contributions, I contacted Decred BR old
-admins to try a new social media communication approach in November 2021, and
+I don't have a clear idea about why the previous proposal hasn't delivered what
+it expected to deliver. In fact, noticing a lack of community contributions,
+I contacted Decred BR old admins to try a new social media communication
+approach in November 2021, and
 took control of Instagram and Twitter accounts, as well as admin rights on
 Facebook group.
 
-The fact that I, @victorguedes, am involved on "Politeia Q1 2022" proposal
-blocked me from having time to frequently produce contents, so I contacted
-@jpsantanna to handle that responsibility and focus on publishing content almost
-every day on Instagram and Twitter.
+I contacted @jpsantanna to help me on that and focus on publishing content almost every day on Instagram and Twitter.
 
 Our first goal was to reactivate the Brazilian community by actively posting
 news, project updates and engagement content in a way that the community could
@@ -87,16 +77,14 @@ the community there.
   ideas for content production.
 - @jpsantanna, crypto enthusiast since 2017 and follows Decred progress
   since 2018. Has been managing and creating content for Decred Brazil Instagram
-  and Twitter accounts since November 2021.
+  and Twitter accounts since November 2021. He was recently invited to collaborate on Decred Magazine.
 - @edsondecre has worked on several events for Decred, such as Campus Party,
   Bitconf, and other meetups, with a high-quality community management
   experience. Edson was able to include Decred in several exchanges like:
-  Bitcambio (https://www.bitcambio.com.br/) and ComprarBitcoin
-  (https://comprarbitcoin.com.br/).
+  [Bitcambio](https://www.bitcambio.com.br/) and [ComprarBitcoin](https://comprarbitcoin.com.br/). He is very experienced in terms of digital marketing on the crypto space.
 - @eric_vieira, moderator of DECRED Brasil (Facebook) since February 6, 2017,
   has been actively explaining technical parts of the project on Facebook
-  Group and also organized a speech about Decred project in Centro Universitário
-  Estácio Juiz de Fora.
+  Group and also has previously organized a speech about Decred in Centro Universitário Estácio Juiz de Fora.
 
 The Decred Brazil team will be composed by 3 levels of contributors, with
 @victorguedes as the supervisor. The roles are detailed below:
@@ -151,10 +139,12 @@ Rate: $30/hr
 
 The last and top level of Decred Brazil contribution journey. A contributor from
 this level is experienced enough to coordinate the team along with other Level 3
-contributors.
+contributors. It is responsible for planning marketing campaigns, strategies,
+and enhance public relations.
 
 ##### Expected Roles
 
+- Level 2 roles;
 - Decide the marketing approach and coordinate marketing campaigns;
 - Choose which crypto events and meetings the team will participate;
 - Be in touch with influencers and big players on the BR crypto scenario;
@@ -172,7 +162,7 @@ on Politeia.
 The main role of the supervisor is to provide transparency for the budget spent
 on the proposal.
 
-A symbolic rate of $80/week is enough to cover the time spent on the described
+A rate of $80/week is enough to cover the time spent on the described
 roles.
 
 A supervisor is not an active contributor of the social media, but it helps
@@ -184,17 +174,15 @@ A rate of **$17/hr** will be used as an average for this budget estimate, with
 an estimated workload of **15h/week** for each contributor, which results in a
 rounded amount of **$18,500.00** budget for labor.
 
-We are also adding an amount of $200 for marketing campaigns and ad boosts.
-
-@edsondecre has provided a good report about the results of a monthly campaign
-on ComprarBitcoin, which is detailed here: (Link) <!-- TODO: Update the link -->
+We are also adding a monthly amount of $200 for marketing campaigns and ad boosts.
 
 | Type            | Amount ($USD) |
 | --------------- | ------------- |
-| Labor           | 18,500.00     |
-| Ads             | 1,000.00      |
+| Labor           | 18,900.00     |
+| Ads             | 1,200.00      |
 | Events Expenses | 1,500.00      |
-| **TOTAL**       | 21,000.00     |
+| Misc.           | 400.00        |
+| **TOTAL**       | 22,000.00     |
 
 ## Milestones
 
